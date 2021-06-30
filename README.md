@@ -21,5 +21,5 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/romao_L7) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/romaol7/) https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/romao_L7) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/romaol7/) [<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />]
 
