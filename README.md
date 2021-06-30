@@ -5,7 +5,7 @@
 Meu nome é Luiz Romão, tenho 18 anos. Atualmente trabalho com Suporte de Sistemas e realizo estágio de Desenvolvedor. :earth_americas:
 
 - :briefcase: FreeLancer 
-- Desenvolvedor Júnior Full Stack;
+- :man_technologist: Desenvolvedor Júnior Full Stack;
 - :computer: Técnico em Desenvolvimento de Sistemas - ETEC;
 - :books: Cursando Análise e Desenvolvimento de Sistemas - FATEC.                              
 
