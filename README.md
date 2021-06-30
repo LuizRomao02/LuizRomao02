@@ -10,7 +10,7 @@ Meu nome é Luiz Romão, tenho 18 anos. Atualmente trabalho com Suporte de Siste
 - :books: Cursando Análise e Desenvolvimento de Sistemas - FATEC.                              
 
 ## Social
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/LuizRomao02) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/romaol7/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/LuizRomao02) [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/luiz-rom%C3%A3o-2a78b2174/)
 
  ## Tecnologias
 
