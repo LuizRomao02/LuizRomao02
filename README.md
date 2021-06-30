@@ -6,7 +6,7 @@ Meu nome é Luiz Romão, tenho 18 anos. Atualmente trabalho com Suporte de Siste
 
 - Desenvolvedor Júnior Full Stack;
 - Técnico em Desenvolvimento de Sistemas - ETEC;
-- 👨🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas - FATEC
+- 👨🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas - FATEC.                              
       > 3° Semestre da Faculdade
    
 
