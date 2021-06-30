@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Galera 👋😄
 
 <!--
 **LuizRomao02/LuizRomao02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
