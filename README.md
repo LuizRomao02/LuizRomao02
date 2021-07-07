@@ -4,7 +4,7 @@
  
 :wave: Meu nome é Luiz Romão, tenho 18 anos, tudo certo?    
 
-## Details :white_check_mark:
+# Details :white_check_mark:
 
 :briefcase: FreeLancer  
 :man_technologist: Desenvolvedor Júnior Full Stack;                       
