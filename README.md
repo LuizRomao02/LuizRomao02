@@ -7,8 +7,8 @@
 # Details :white_check_mark:
 
 :briefcase: FreeLancer  
-:man_technologist: Estagiário de FrontEnd;    
-:man_technologist: Suporte de Sistemas;    
+:man_technologist: Intern FrontEnd;    
+:man_technologist: Systems Support;    
 :computer: Technician Systems Development - ETEC;                      
 :books: Studying Analysis and Systems Development - FATEC.                                                  
 
