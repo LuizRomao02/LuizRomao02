@@ -6,7 +6,6 @@
 
 # Details :white_check_mark:
 
-:briefcase: FreeLancer  
 :man_technologist: Intern FrontEnd;    
 :man_technologist: Systems Support;    
 :computer: Technician Systems Development - ETEC;                      
