@@ -6,8 +6,6 @@
 
 # Details :white_check_mark:
 
-:man_technologist: Estagiário FrontEnd;    
-:man_technologist: Suporte de sistemas;    
 :computer: Técnico de Desenvolvimento de Sistemas - ETEC;                      
 :books: Graduando Análise e Desenvolvimento de Sistemas - FATEC.                                                  
 
