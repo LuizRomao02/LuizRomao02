@@ -25,7 +25,7 @@
 <h2 align="center">Projetos em Destaque 🌟</h2>
 <p align="center">
   <a href="https://github.com/LuizRomao02/api-voll-medi">
-    <img alt="Projeto API Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+     <img alt="API" src="https://img.shields.io/badge/API-005571?style=flat-square&logo=web-api&logoColor=white"><img alt="Projeto API Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
   </a>
 </p>
 
