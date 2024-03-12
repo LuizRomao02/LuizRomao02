@@ -1,12 +1,7 @@
 <h1 align="center">Bem-vindo(a) ao Meu Perfil! 👋</h1>
 
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/seu_usuario?style=social">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/seu_usuario?style=social">
-</p>
-
-<p align="center">
-  Olá! Eu sou o Luiz Romão, um entusiasta da programação apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará uma variedade de projetos interessantes que desenvolvi, além de explorar várias linguagens e tecnologias.
+  Olá! Eu sou o Luiz Romão, um entusiasta da programação apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará uma variedade de projetos interessantes que desenvolvi.
 </p>
 
 <p align="center">
