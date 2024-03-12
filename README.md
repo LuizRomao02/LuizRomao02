@@ -24,8 +24,8 @@
 
 <h2 align="center">Projetos em Destaque 🌟</h2>
 <p align="center">
-  <a href="link_para_o_projeto_1">
-    <img src="imagem_do_projeto_1" alt="Projeto 1" width="200" height="120">
+  <a href="https://github.com/LuizRomao02/api-voll-medi">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Projeto 1" width="200" height="120">
   </a>
   <a href="link_para_o_projeto_2">
     <img src="imagem_do_projeto_2" alt="Projeto 2" width="200" height="120">
