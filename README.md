@@ -1,49 +1,55 @@
-<h1 align="center">Bem-vindo(a) ao Meu Perfil! 👋</h1>
+<div align="center">
+  
+# 👨‍💻 Luiz Romão | Desenvolvedor Full Stack
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-romao/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:luizromao7@outlook.com)
 
-<p align="center">
-  Olá! Eu sou o Luiz Romão, um entusiasta da programação apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará uma variedade de projetos interessantes que desenvolvi.
-</p>
+</div>
 
-<p align="center">
-  <strong>Linguagens e Tecnologias:</strong>
-  <br>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
-  <img alt="API" src="https://img.shields.io/badge/API-005571?style=flat-square&logo=web-api&logoColor=white">
-  <img alt="JPA" src="https://img.shields.io/badge/JPA-EE77B4?style=flat-square&logo=eclipse-jpa&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-FFD700?style=flat-square&logo=oracle&logoColor=black">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-</p>
+## 🚀 Sobre Mim
 
-<h2 align="center">Projetos em Destaque 🌟</h2>
-<p align="center">
-  <a href="https://github.com/LuizRomao02/api-voll-medi">
-     <img alt="API" src="https://img.shields.io/badge/API-005571?style=flat-square&logo=web-api&logoColor=white"><img alt="Projeto API Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
-  </a>
-</p>
+Olá! Sou um desenvolvedor backend. Minhas experiências é desde o desenvolvimento backend com Java e Spring até arquiteturas de microsserviços e cloud computing.
 
-<h2 align="center">Estatísticas do GitHub 📈</h2>
+## 💻 Stack Tecnológica
 
-<p align="center">
-  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=LuizRomao02&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&theme=radical">
-</p>
+```java
+public class DevSkills {
+    private final String[] backend = {
+        "Java ☕", "Spring Boot 🍃", "Hibernate 🗄️",
+        "PL/SQL 📊", "MySQL 🐬", "NoSQL 📑", "JPA 🔄", "JDBC 🎯"
+    };
+    
+    private final String[] devops = {
+        "Docker 🐳", "RabbitMQ 🐰", "GCP ☁️"
+    };
+    
+    private final String[] frontend = {
+        "Vue.js 💚", "JavaScript 🌟"
+    };
+    
+    private final String[] architecture = {
+        "Microservices 🔨", "RESTful APIs 🌐", "SOLID 🎯", "DDD 🧩", "Design Patterns ⚙️", "Clean Architecture 🏛️", "TDD 🧪", "BDD 🔄"
+    };
+    
+    private final String[] testing = {
+        "JUnit 🧪"
+    };
+}
+```
 
-<h2 align="center">Contato 📬</h2>
-<p align="center">
-  Se você deseja entrar em contato comigo, pode me encontrar em:
-</p>
+## 🌟 Projetos em Destaque
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luizromao02/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-   <a href="https://www.instagram.com/romaol7/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-</p>
+### 🚀 Projeto 1
+> Projeto de relacionamento de serviços de acordo com o CEP.
+> * Tecnologias: Spring Boot, MySQL, JPA, Docker
+> * [Link do Projeto]([link_do_projeto](https://github.com/LuizRomao02/ConsultEP))
 
-<p align="center">
-  Sinta-se à vontade para explorar meus projetos e repositórios. Se você tiver alguma dúvida, feedback ou sugestão, não hesite em entrar em contato. Agradeço sua visita! 😄
-</p>
+## 📈 Estatísticas GitHub
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&theme=radical)
+
+</div>
