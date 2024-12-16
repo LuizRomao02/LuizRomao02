@@ -37,7 +37,7 @@ public class DevSkills {
     };
 }
 ```
-## 📈 Estatísticas GitHub
+## 📈 GitHub Stats
 
 <div align="center">
   
