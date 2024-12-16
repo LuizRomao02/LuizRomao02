@@ -1,15 +1,15 @@
 <div align="center">
   
-# 👨‍💻 Luiz Romão | Desenvolvedor Full Stack
+# 👨‍💻 Luiz Romão | Backend Developer
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-romao/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:luizromao7@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Outlook&logoColor=white)](mailto:luizromao7@outlook.com)
 
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Olá! Sou um desenvolvedor backend. Minhas experiências é desde o desenvolvimento backend com Java e Spring até arquiteturas de microsserviços e cloud computing.
+Hello! I am a backend developer with experience in Java, Spring, microservices, and cloud computing. I work with technologies that ensure performance, scalability, and robust solutions for complex systems.
 
 ## 💻 Stack Tecnológica
 
