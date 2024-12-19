@@ -11,7 +11,7 @@
 
 Hello! I am a backend developer with experience in Java, Spring, microservices, and cloud computing. I work with technologies that ensure performance, scalability, and robust solutions for complex systems.
 
-## 💻 Stack Tecnológica
+## 💻 Stack Technological
 
 ```java
 public class DevSkills {
