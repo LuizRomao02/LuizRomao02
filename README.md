@@ -42,6 +42,5 @@ public class DevSkills {
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizRomao02&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizRomao02&layout=compact&theme=radical)
 
 </div>
