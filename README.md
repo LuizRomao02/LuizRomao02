@@ -1,7 +1,8 @@
 <div align="center">
   
-# 👨‍💻 Luiz Romão | Backend Developer
-  
+#  <img alt="spring" title="spring" style="vertical-align: middle;" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> Luiz Romão | Backend Developer <img alt="JAVA" title="JAVA" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-romao/)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=Outlook&logoColor=white)](mailto:luizromao7@outlook.com)
 
