@@ -38,8 +38,3 @@ public class DevSkills {
     };
 }
 ```
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizRomao02&show_icons=true&theme=radical" height="145" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizRomao02&theme=radical" height="145" alt="languages graph"/>   
-</div>
